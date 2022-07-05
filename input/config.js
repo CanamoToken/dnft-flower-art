@@ -121,9 +121,9 @@ const width = 1505;
 // image height in pixels
 const height = 2048;
 // description for NFT in metadata file
-const description = "MetaLeague Players Drop 01";
+const description = "Planta de cannabis";
 // base url in case no unique metadata file i.e IPFS
-const baseImageUri = "https://2cwoovqsfiip.usemoralis.com:2053/server";
+const baseImageUri = "https://a7znbwqrinxd.usemoralis.com:2053/server";
 // id for edition to start from
 const startEditionFrom = 1;
 // amount of NFTs to generate in edition

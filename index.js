@@ -21,9 +21,10 @@ const canvas = createCanvas(width, height);
 const ctx = canvas.getContext("2d");
 
 // Moralis creds
-const appId = "XZzxI67HVwEIQjK3rwXn547HkJIZe84oo5Eq8CBq";
-const serverUrl = "https://2cwoovqsfiip.usemoralis.com:2053/server";
-const masterKey = "5KRSv3vj10R22vag4nrA09XDx8XBHbLqF1RM5zpt"; // DO NOT DISPLAY IN PUBLIC DIR
+const appId = "LEq5ZzrTtAzTeGLepCfPbnO1xILhNX3Gl3tVMWE8";
+const serverUrl = "https://a7znbwqrinxd.usemoralis.com:2053/server";
+const masterKey = "NjYgoBPsenuIeqj1scG6hdbbba2IIzG2Wz2yY5Aq"; // DO NOT DISPLAY IN PUBLIC DIR
+
 const xAPIKey = "aspqRK7RWi8AXXqjYhO70xddWRURVJv1jWTeK2C0wYGJmRAgcoHygR4rrMUdjfXD"; // DO NOT DISPLAY IN PUBLIC DIR
 // xAPIKey available here: https://deep-index.moralis.io/api-docs/#/storage/uploadFolder
 const api_url = "https://deep-index.moralis.io/api/v2/ipfs/uploadFolder";
@@ -439,7 +440,7 @@ const startCreating = async () => {
 
   writeMetaData(JSON.stringify(metadataList));
   console.log("#########################################");
-  console.log("Welcome to META LEAGUE - Meet the Players");
+  console.log("Welcome to CANAMO NFTs - The Future of IoT & Cannabis NFT Industry");
   console.log("#########################################");
   console.log();
 };
